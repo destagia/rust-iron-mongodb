@@ -1,0 +1,14 @@
+[package]
+name = "iron-test"
+version = "0.1.0"
+authors = ["miyatin <kei@kamasu.jp>"]
+
+[dependencies]
+iron = "*"
+time = "*"
+router = "*"
+bson = "0.1.3"
+mongodb = "0.1.0"
+mount = "*"
+staticfile = "*"
+persistent = "*"
